@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+sentence-transformers
+chromadb
+langchain
+langchain-community
+langchain-groq
+langgraph
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+datasets
+torchao>=0.16.0
+plotly
